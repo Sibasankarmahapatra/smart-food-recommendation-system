@@ -1,0 +1,11 @@
+Restaurant,Food,Price,Rating,Availability,Latitude,Longitude,Category,Address
+"The Gourmet Kitchen","Truffle Pasta",450,4.8,"Yes",20.2961,85.8245,"Italian","Janpath, Bhubaneswar"
+"Spicy Tadka","Butter Chicken",380,4.5,"Yes",20.2970,85.8250,"North Indian","Saheed Nagar, Bhubaneswar"
+"Sushi World","Salmon Nigiri",600,4.7,"Yes",20.2950,85.8260,"Japanese","Unit 9, Bhubaneswar"
+"Burger King","Whopper Meal",250,4.2,"Yes",20.2980,85.8230,"Fast Food","Vani Vihar, Bhubaneswar"
+"Pizza Hut","Pepperoni Feast",550,4.4,"Yes",20.2990,85.8220,"Fast Food","Master Canteen, Bhubaneswar"
+"Ocean Delight","Grilled Lobster",1200,4.9,"No",20.2940,85.8270,"Seafood","Patia, Bhubaneswar"
+"Green Leaf","Paneer Tikka",320,4.6,"Yes",20.3000,85.8210,"Vegetarian","Jayadev Vihar, Bhubaneswar"
+"Taco Bell","Chicken Quesadilla",180,4.1,"Yes",20.3010,85.8200,"Mexican","Infocity, Bhubaneswar"
+"Cafe Coffee Day","Cappuccino",150,4.3,"Yes",20.3020,85.8190,"Cafe","KIIT Square, Bhubaneswar"
+"Baskin Robbins","Vanilla Scoop",120,4.5,"Yes",20.3030,85.8180,"Dessert","DLF Cyber City, Bhubaneswar"
