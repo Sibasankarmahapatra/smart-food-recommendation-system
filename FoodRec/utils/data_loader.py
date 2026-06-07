@@ -3,7 +3,7 @@ import os
 
 def load_data():
     """Load all datasets and perform basic cleaning."""
-    data_dir = "data"
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
     
     # Load datasets
     df_restaurants = pd.read_csv(os.path.join(data_dir, "restaurants.csv"))
